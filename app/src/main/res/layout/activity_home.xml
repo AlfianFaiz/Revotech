@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_home"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"    tools:context="com.alfianfaiz.app.revotech.HomeActivity">
+
+    <ImageView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/logo_revotech_medium"
+        android:id="@+id/imageView2"
+        android:scaleType="fitCenter" />
+
+
+    <TextView
+        android:layout_marginTop="40dp"
+        android:text="02-11-2017"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tTanggal"
+        android:textSize="10pt"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="#000000"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:id="@+id/idHUB"
+            android:layout_marginRight="5dp"
+            android:spinnerMode="dropdown"
+            />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:id="@+id/idATM"
+            android:layout_marginLeft="5dp"
+            android:spinnerMode="dropdown"
+            />
+
+    </LinearLayout>
+
+
+    <Button
+        android:layout_marginTop="85dp"
+        android:text="NEW VISIT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnTakePict"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/fontPutih"/>
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:text="HISTORY"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnHistory"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/fontPutih"/>
+
+</LinearLayout>
