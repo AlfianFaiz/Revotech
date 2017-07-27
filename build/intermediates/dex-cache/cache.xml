@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_129019bef545361614fbeceb6634c8d1115f3605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\net.gotev\uploadservice\2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="372295458f730b0715898d4b477a85aa1a777504">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\net.gotev-uploadservice-2.1_67d8cb3ea4fc3005c6925f9c9cb61fd22e4afa5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_d090acc0c40c1eeea8a8b4e77848de8d14e25aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_aa2870976acff00d442b09d8dca1bf4606ef6c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\commons\0.8.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b70302fafbb8bc4f74df2f648bee8c64ed065849">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-commons-0.8.6.1_e374b001bd30c938761c037490fd482c23fb227f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.frosquivel\magicalcamera\5.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="688c76638cd4ff1d6af6a564d538819cf5bce956">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.frosquivel-magicalcamera-5.0.3_21faa838f75eea24798f6aab5eb53454d7318355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.8.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5640136cf422060a7077e2c02d9a231d7c76f959">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-core-0.8.6.1_1b8bbeec4f9046406709347c9a48cc4cfabcd410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_b50088d528c9bcb9d3a227bf188747039f8232cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.rengwuxian.materialedittext-library-2.0.3_2efe0f07740157d2d96dd39a7dc16e4b134eb618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USRER\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\library-2.4.0_bdbc4b2e08c8c0b7bfc0b4c7b543c47f11067376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_656f1ea72b5d322ab8b1b2c50dec15c9b9de1126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9acfd1dcd989869867535c02aa7d0dc910438667">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_747421abbe64a853d47d26ea6385d264a927a504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_2a60e9c81ed0c90e5f12ad97bc92b993f8fdfa21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_0723570cae21928fe41c7f4edc09ef4ed5c2a2d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab3193b438e37f7b0a634cc2dfebbf92892ea90c">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.6_383f4dd3565af0d2eb03392538691aadf6eb0448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USRER\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\glide-3.7.0_a9e382fc530143b7f96b5b048612d2719490e0a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_46b94d4f4251ff1af60eee30b6215c6f537bb154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_c81d3d9b0cbb91f35fac5707ada360afdc9f09e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.2.0_8b89a3cbfab0bc690a7394e1988f109ddb820d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_6d4a9238e18fe58f46def147ec3796b539c16888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_e9ba27c59f6b81cef302c5ed74e45cad0a44d895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.2.0_c1d12e538f21a807ffd96822dae9e70b86ada1ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_7dd78cb6edec601d3dc270a9afa49bed5a856ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_079df319758df4f831bea931cc489b25caf0f58e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.weiwangcn.betterspinner\library-material\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d8c5463a1a50691e2cf66cd7ce4751c8545b584">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.weiwangcn.betterspinner-library-material-1.1.0_e50b476f76a6a958238950720bdd59ac5f2fb270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d41afd27d2365b8a3b79170622bf396401bdc3b9">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\instant-run_5c473579173a3e6906a86566212be60e4e443152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_bcc3e1056f366c2858c2bb0e3cc766bd41f505e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MaF\Revotech\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\Android\MaF\Revotech\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_cd3be1209212280609fa795a47a16b282a127e4b.jar" />
+    </item>
+
+</items>
